@@ -1,1 +1,1 @@
-/Users/hamdamboy/Documents/OpenSource/Rust/Part-1.\ Fundamentals/006.collectionType/target/debug/collectionTypes: /Users/hamdamboy/Documents/OpenSource/Rust/Part-1.\ Fundamentals/006.collectionType/src/main.rs
+F:\ex\ex3\Rust-Awesome-Projects-master\Rust-Awesome-Projects-master\Part-1.\ Fundamentals\006.collectionType\target\debug\collectionTypes.exe: F:\ex\ex3\Rust-Awesome-Projects-master\Rust-Awesome-Projects-master\Part-1.\ Fundamentals\006.collectionType\src\main.rs

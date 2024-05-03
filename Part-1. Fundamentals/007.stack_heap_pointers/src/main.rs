@@ -21,11 +21,11 @@ fn main() {
 
 
     println!("");
-    let title = "Today's news in Korea ";
+    let title = "this is fist sentence jgfgjfgf hghkgg kjhjkhkhj jkhiuuggih hiuhuihi.";
     println!("{:-^38}", title);
     let bar = "|";
     println!("{: <10}{: >12} {: >15}", bar, bar, bar); // no variable name, pad with space 15 characters each
-    let a = "SEOUL";
+    let a = "adgsdghashdhdfshsdfh";
     let b= "TOKYO";
     let c = "Tashkent";
     println!("{city1:-<12}{city2:->12}{city3:->15}", city1 = a, city2=b, city3 = c); // variable name city1 and city2.

@@ -1,0 +1,9 @@
+F:\ex\ex3\Rust-Awesome-Projects-master\Rust-Awesome-Projects-master\Part-2. SampleProjects\SnakeMoving\target\debug\deps\libglutin_wgl_sys-9962c6d9fc367415.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glutin_wgl_sys-0.1.5\src\lib.rs F:\ex\ex3\Rust-Awesome-Projects-master\Rust-Awesome-Projects-master\Part-2.\ SampleProjects\SnakeMoving\target\debug\build\glutin_wgl_sys-cef00d0fef5db6fe\out/wgl_bindings.rs F:\ex\ex3\Rust-Awesome-Projects-master\Rust-Awesome-Projects-master\Part-2.\ SampleProjects\SnakeMoving\target\debug\build\glutin_wgl_sys-cef00d0fef5db6fe\out/wgl_extra_bindings.rs
+
+F:\ex\ex3\Rust-Awesome-Projects-master\Rust-Awesome-Projects-master\Part-2. SampleProjects\SnakeMoving\target\debug\deps\glutin_wgl_sys-9962c6d9fc367415.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glutin_wgl_sys-0.1.5\src\lib.rs F:\ex\ex3\Rust-Awesome-Projects-master\Rust-Awesome-Projects-master\Part-2.\ SampleProjects\SnakeMoving\target\debug\build\glutin_wgl_sys-cef00d0fef5db6fe\out/wgl_bindings.rs F:\ex\ex3\Rust-Awesome-Projects-master\Rust-Awesome-Projects-master\Part-2.\ SampleProjects\SnakeMoving\target\debug\build\glutin_wgl_sys-cef00d0fef5db6fe\out/wgl_extra_bindings.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\glutin_wgl_sys-0.1.5\src\lib.rs:
+F:\ex\ex3\Rust-Awesome-Projects-master\Rust-Awesome-Projects-master\Part-2.\ SampleProjects\SnakeMoving\target\debug\build\glutin_wgl_sys-cef00d0fef5db6fe\out/wgl_bindings.rs:
+F:\ex\ex3\Rust-Awesome-Projects-master\Rust-Awesome-Projects-master\Part-2.\ SampleProjects\SnakeMoving\target\debug\build\glutin_wgl_sys-cef00d0fef5db6fe\out/wgl_extra_bindings.rs:
+
+# env-dep:OUT_DIR=F:\\ex\\ex3\\Rust-Awesome-Projects-master\\Rust-Awesome-Projects-master\\Part-2. SampleProjects\\SnakeMoving\\target\\debug\\build\\glutin_wgl_sys-cef00d0fef5db6fe\\out

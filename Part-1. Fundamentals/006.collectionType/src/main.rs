@@ -42,7 +42,7 @@ fn main() {
 
         let y = 10;
         let x = 21;
-        let x = multiFunction(x); // shadow with new x : 42
+        let x = multi_function(x); // shadow with new x : 42
 
         let x = x + y; // shadow is new x: 52
 
@@ -55,6 +55,6 @@ fn main() {
 
 }
 
-fn multiFunction(number: i32) -> i32{
+fn multi_function(number: i32) -> i32{
     number*2
 }

@@ -8,7 +8,7 @@ fn main() {
     println!("=---------The first Loop element=--------");
 
     let mut counter = 0; // set a counter to 0
-    loop{
+    loop{   
         counter +=1;
         println!("The counter is now : {}", counter);
 

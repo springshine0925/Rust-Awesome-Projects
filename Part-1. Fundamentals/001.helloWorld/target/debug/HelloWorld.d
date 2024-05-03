@@ -1,1 +1,1 @@
-/Users/hamdamboy/Documents/OpenSource/Rust/Part-1.\ Fundamentals/HelloWorld/target/debug/HelloWorld: /Users/hamdamboy/Documents/OpenSource/Rust/Part-1.\ Fundamentals/HelloWorld/src/main.rs
+F:\ex\ex3\Rust-Awesome-Projects-master\Rust-Awesome-Projects-master\Part-1.\ Fundamentals\001.helloWorld\target\debug\HelloWorld.exe: F:\ex\ex3\Rust-Awesome-Projects-master\Rust-Awesome-Projects-master\Part-1.\ Fundamentals\001.helloWorld\src\main.rs
